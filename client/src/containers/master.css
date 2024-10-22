@@ -1,7 +1,8 @@
-.sidebar-content-container{
-    display: flex;
+.sidebar-content-container {
+  display: flex;
 }
 
-.main{
-    flex: 5;
+.main {
+  flex: 5;
+  background-color: rgb(197, 197, 197);
 }

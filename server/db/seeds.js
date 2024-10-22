@@ -53,3 +53,4 @@ db.shares.insertMany([
         avgPurchasePrice: 29.32
     }
 ])
+
